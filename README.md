@@ -2,6 +2,8 @@
 A PyTorch implementation of SRGAN based on CVPR 2017 paper 
 [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802).
 
+The code has been taken from the repo [SRGAN](https://github.com/leftthomas/SRGAN.git)
+
 We have added a report of our findings at [ASP_Project.pdf](./ASP_Project.pdf) along with our presentation [PPT.pdf](./PPT.pdf).
 
 We trained this model on different datasets such as cricket, Online Lecture and sceneries. Some of the model weights are present in the [epochs](./epochs/) folder
